@@ -1,4 +1,4 @@
-import{w as U,d as g,e as c,u as S,f as _,h as m,E as I,i as p}from"./ObjectSpawner-CBFi0ssU.js";const x={name:"local-uniform-bit",vertex:{header:`
+import{w as U,d as g,e as c,u as S,f as _,h as m,E as I,i as p}from"./ObjectSpawner-Dvo4VNXr.js";const x={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
